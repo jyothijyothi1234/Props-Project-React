@@ -1,8 +1,6 @@
 import React from "react";
 import { Button, Grid,Typography } from "@mui/material";
 
-
-
 function ElementWise(Props){
 
     return(
